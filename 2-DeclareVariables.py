@@ -5,6 +5,9 @@
 
 fullName = "Ajjay Aroraa" # This is an example of how to store string type data
 someRandomNumber = "10" # This is an example of how to store integer type data
+is_val_true = False # This is an example of how to store boolean type data
+
 
 print(fullName)
 print(someRandomNumber)
+print(is_val_true)
