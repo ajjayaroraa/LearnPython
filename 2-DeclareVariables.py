@@ -14,3 +14,5 @@ print(is_val_true)
 
 # A variable name in pyton should start either with underscore or a letter but
 # not with the number. Also, only letters, underscore, and numbers are allowed
+# Do note that variable names are case sensitive. So, FULLNAME is not same as
+# fullName or FullName or fullname and so on
