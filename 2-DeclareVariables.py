@@ -11,3 +11,6 @@ is_val_true = False # This is an example of how to store boolean type data
 print(fullName)
 print(someRandomNumber)
 print(is_val_true)
+
+# A variable name in pyton should start either with underscore or a letter but
+# not with the number. Also, only letters, underscore, and numbers are allowed
