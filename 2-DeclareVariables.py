@@ -26,3 +26,7 @@ print(type(someRandomNumber))
 print(type(is_val_true))
 
 # What it does is to print the type of data that is stored in a variable
+
+''' Also you can make a multi line comment
+like this one
+by putting comment between 3 apostrophe on each side of the comment
