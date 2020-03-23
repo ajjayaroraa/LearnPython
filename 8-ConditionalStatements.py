@@ -15,3 +15,12 @@ if num > 10:
     print("greater than 10")
 else:
     print("less than or equal to 10")
+
+# Syntax for if elseif
+
+if num % 2 == 0:
+    print("even")
+elif num == 15:
+    print("number is 15")
+else:
+    print("the last condition")
