@@ -14,3 +14,8 @@ print(ans)
 # NOT
 ans = 5>4
 print(not ans)
+
+
+# NOT is evaluated first
+# AND is evaluated next
+# OR is evaluated last
