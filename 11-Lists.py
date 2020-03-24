@@ -30,3 +30,13 @@ print(sliced)
 # get length or number of elements in a list
 
 print(len(numbers))
+
+
+# append elements in a list
+
+numbers.append(7)
+print(numbers)
+
+# sort list
+numbers.sort()
+print(numbers)
