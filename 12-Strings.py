@@ -15,3 +15,10 @@ print(sample_str[10])
 # part of string
 part_of_str = sample_str[5:23]
 print(part_of_str)
+
+
+# concatinating + adding strings
+
+sample_str_2 = " another string to be concatinated"
+new_str = sample_str + sample_str_2
+print(new_str)
