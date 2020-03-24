@@ -21,3 +21,8 @@ for x in numbers:
 
 sliced = numbers[3:7]
 print(sliced)
+
+# name_of_list[start:stop+1]
+# let start be blank if you wish to start from zero
+# let stop+1 be blank if you wish to let loop go through end
+# use negative indexing if you wish to start from last
