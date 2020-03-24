@@ -18,3 +18,6 @@ for x in numbers:
 
 # slice a part of the list
 # name_of_list[start:stop+1]
+
+sliced = numbers[3:7]
+print(sliced)
